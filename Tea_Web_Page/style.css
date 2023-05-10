@@ -1,0 +1,25 @@
+body {
+    font-family: 'Farsan';
+    font-size: 25px;
+    background-color: #E9ECEF;
+}
+
+.container-fluid {
+    color: rgb(46, 79, 79);
+}
+
+
+a {
+    color: black;
+}
+
+ol{
+    list-style-position: inside
+}
+.pp {
+    color: rgb(46, 79, 79)
+}
+
+p {
+    color: rgb(46, 79, 79);
+}
